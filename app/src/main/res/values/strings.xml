@@ -16,5 +16,11 @@
     <string name="division">/</string>
     <string name="addition">+</string>
     <string name="subtraction">-</string>
-    <string name="text_one">Текст колькулятора</string>
+    <string name="text_one">Калькулятор</string>
+    <string name="_darck">Темная тема</string>
+    <string name="orientation_mode">Инженерный калькулятор</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="email_users">Email Users</string>
+    <string name="phone_number">Phone number</string>
 </resources>
